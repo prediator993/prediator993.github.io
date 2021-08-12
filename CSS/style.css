@@ -1,0 +1,20 @@
+@font-face {
+    font-family:PaletteMosaic;
+    src: url(/CSS/Fonts/PaletteMosaic-Regular.ttf);
+}
+
+h1 {
+    color: rgb(205, 144, 255);
+    font-family:"PaletteMosaic";
+    text-align: center;
+    text-transform:uppercase;
+}
+
+p {
+    color: cyan; font-size: 30px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
