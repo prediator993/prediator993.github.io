@@ -11,14 +11,54 @@ h1 {
     text-align: center;
     text-transform:uppercase;
 }
+h2{
+    color:rgb(0, 17, 255);
+    margin: 10px 20px 10px 20px;
+    border: olivedrab 2px;
+    border-style: dashed;
+    box-shadow: orchid 0px 10px 10px;
+    text-shadow: tomato 0px 10px 10px;
+    
 
-p {
-    color: cyan; 
-    font-family: 'MonteCarlo', cursive;
-    font-size: 100px;
+}
+img {height: 100%;
 }
 
-img {
-    width: 200px;
-    height: 200px;
+
+
+#ASD {
+    color: green;
+}
+#imgid1 {
+    visibility:hidden;
+}
+
+
+
+
+.kecske {color: rgb(0, 247, 255);
+}
+.name {
+    color:lawngreen;
+    text-transform: uppercase;
+}
+.img{
+    background-color: olivedrab;
+    height: 300px;
+}
+.img2{
+    background-color: rgb(25, 0, 255);
+    height: 300px;
+}
+
+
+
+
+
+
+
+p {
+    color: rgb(0, 0, 0); 
+    font-family: 'MonteCarlo', cursive;
+    font-size: 20px;
 }
