@@ -5,6 +5,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
+html {
+    background-image:url ;
+}
+
 h1 {
     color: rgb(205, 144, 255);
     font-family:"PaletteMosaic";
@@ -30,9 +34,12 @@ img {height: 100%;
     color: green;
 }
 #imgid1 {
-    visibility:hidden;
-}
+    position: fixed;
+    top: 10px;
+    width: 40px;
+    height: 20px;
 
+}
 
 
 
