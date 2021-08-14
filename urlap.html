@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/CSS/urlap.css">
+</head>
+
+<body>
+
+    <h1>Ürlap</h1>
+    <div class="urlap">
+        <form>
+            <fieldset>
+                <legend>Személyes Adatok</legend>
+                <div>
+                    <label class="words" for="name">Név: *</label>
+                    <input id="name" type="text" name="name">
+                </div>
+                <div>
+                    <label class="words" for="email">Email: *</label>
+                    <input id="email" type="email" name="email">
+                </div>
+                <div>
+                    <label class="words" for="address">Cím: *</label>
+                    <input id="address" type="text" name="address">
+                </div>
+                <div>
+                    <label class="words" for="comment">Megjegyzés:</label>
+                    <textarea id="comment" name="comment"></textarea>
+                </div>
+            </fieldset>
+    </div>
+
+
+    <fieldset>
+        <legend>Termék Adatai</legend>
+        <span id="extrafel">Extra Feltétek</span>
+
+        <div id="feltetekon">
+            <div>
+                <input checked id="nothing" name="buttons" type="radio" value="0">
+                <label class="felteton" for="nothing">Nem kérek</label>
+            </div>
+            <div>
+                <input id="sajt1" name="buttons" type="radio" value="300">
+                <label class="felteton" for="sajt1">Feltét 1</label>
+            </div>
+            <div>
+                <input id="sajt2" name="buttons" type="radio" value="1000">
+                <label class="felteton" for="sajt2">Feltét 2</label>
+            </div>
+            <div>
+                <input id="sajt3" name="buttons" type="radio" value="600">
+                <label class="felteton" for="sajt3">Feltét 3</label>
+            </div>
+            <div>
+                <input id="sajt4" name="buttons" type="radio" value="1600">
+                <label class="felteton" for="sajt4">Feltét 4</label>
+            </div>
+        </div>
+    </fieldset>
+
+    <div>
+        <button id="send">Küldés</button>
+    </div>
+    </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

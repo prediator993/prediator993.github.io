@@ -1,0 +1,68 @@
+
+#name{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+}
+#email{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+}
+#address{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+}
+#comment{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+}
+#feltetekon{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+}
+#extrafel{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+    color: rgb(0, 49, 196);
+
+}
+
+
+.words{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+    color: rgb(0, 49, 196);
+}
+.extrafel{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+    color: rgb(0, 49, 196);
+}
+.extrafelsor{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+    color: rgb(0, 49, 196); 
+}
+.felteton{
+    border-color: rgb(0, 114, 180);
+    margin: 1px;
+    box-shadow: 0 0 3px royalblue;
+    color: rgb(0, 49, 196); 
+}
+
+
+
+
+h1{
+    color: royalblue;
+    text-shadow: 0 0 3px royalblue;
+    font-family:'Courier New', Courier, monospace;
+}
